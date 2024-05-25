@@ -1,25 +1,20 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ascottR.ascottR" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=32&pause=1000&color=F7F7F7&random=false&width=480&height=56&lines=Hello+there+%F0%9F%91%8B;I+am+Tehan+Nimsitha)](https://git.io/typing-svg" />
 </h1>
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+  
+ 🌱 I’m currently learning **Next.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **MERN, Java, PHP ...**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **ascottR? It's short for Rathu Ascott (the silly cartoon villain)**
 
  </div>
- 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
